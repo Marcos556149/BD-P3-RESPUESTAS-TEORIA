@@ -1,4 +1,7 @@
 # BD-P3-RESPUESTAS-TEORIA
+ITEM 1: Defina clave primaria y foránea
+  CLAVE PRIMERIA: Es uno o mas atributos que permiten identificar univocamente un registro dentro de una relacion
+  CLAVE FORANEA: Se utiliza para referenciar un registro unico dentro de otra relacion en la cual dicha CF es su CP
 ITEM 2: Responda y justifique las siguientes preguntas:
   *¿Qué es una tupla? Compare con una tabla
     cada tupla se considera como un conjunto de pares(atributo, valor)
